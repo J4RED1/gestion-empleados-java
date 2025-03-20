@@ -149,7 +149,7 @@ java Main
 ---
 
 ## 🚀 Desarrollado por [J4RED1]
-📌 **GitHub:** [https://github.com/TU_USUARIO](https://github.com/J4RED1)
+📌 **GitHub:** [https://github.com/J4RED1](https://github.com/J4RED1)
 📌 **LinkedIn:**
 
 💡 **¿Ideas para mejorar el proyecto?** ¡Haz un fork y colabora! 🎯
